@@ -20,7 +20,7 @@
   },
   {
     "id":2,
-    "type":"Neutral Zones",
+    "type":"Zones",
     "title":"PillBox",
     "notes":"Ran by Medical Professionals",
     "order":1,
@@ -50,7 +50,7 @@
 },
 {
   "id":4,
-  "type":"Neutral Zones",
+  "type":"Zones",
   "title":"Police Department",
   "notes":"",
   "order":2,
