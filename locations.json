@@ -62,5 +62,20 @@
 {"lat": 65.912, "lng": -119.805},
 {"lat": 65.871, "lng": -120.618}
 ]
+},
+{
+  "id":5,
+  "type":"Business Areas",
+  "title":"Corporation",
+  "notes":"",
+  "order":2,
+"strokecolor":"#FF0000",
+"fillcolor":"#FFFF00",
+  "latlngarray": [
+{"lat": 66.860, "lng": -124.536},
+{"lat": 66.301, "lng": -125.009},
+{"lat": 66.477, "lng": -126.129},
+{"lat": 67.032, "lng": -125.613}
+]
    }
 ]
