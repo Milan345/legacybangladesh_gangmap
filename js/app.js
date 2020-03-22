@@ -150,7 +150,7 @@ $(function() {
 			enabled: true
 		},
 		{
-			name: 'Neutral Zones',
+			name: 'Zones',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
