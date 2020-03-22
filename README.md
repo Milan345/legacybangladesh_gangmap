@@ -1,6 +1,6 @@
 Legacy-Roleplay Territory map
 ====
-[Live page](https://w1lsoncodes.github.io/legacy-gangmap/)
+[Live page](https://w1lsoncodes.github.io/legacybangladesh_gangmap/)
 This interactive (Google) map shows you the location of current Legacy-Roleplay territory/gang zones.
 
 
