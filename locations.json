@@ -16,7 +16,7 @@
     {"lat": 62.032, "lng": -122.791},
     {"lat": 62.260, "lng": -123.698},
     {"lat": 62.331, "lng": -123.917}
-  ]
+]
   },
   {
     "id":2,
@@ -31,6 +31,21 @@
     {"lat": 67.604, "lng": -120.870},
     {"lat": 67.364, "lng": -121.244},
     {"lat": 67.482, "lng": -122.002}
+]
+  },
+  {
+    "id":3,
+    "type":"Gang Areas",
+    "title":"Example | Legion Square",
+    "notes":"Ran by Medical Professionals",
+    "order":2,
+  "strokecolor":"#0ae5e0",
+  "fillcolor":"#0ae5e0",
+    "latlngarray": [
+    {"lat": 66.629, "lng": -122.869},
+    {"lat": 66.546, "lng": -122.001},
+    {"lat": 65.921, "lng": -122.507},
+    {"lat": 66.051, "lng": -123.331}
 ]
    }
 ]
