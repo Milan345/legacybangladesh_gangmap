@@ -35,13 +35,43 @@
   "title":"PD",
   "notes":"This is the Police Department",
   "order":2,
-"strokecolor":"#08A513",
-"fillcolor":"#06D415",
+"strokecolor":"#0633D4",
+"fillcolor":"#0671D4",
   "latlngarray": [
 {"lat": 66.156, "lng": -120.526},
 {"lat": 66.160, "lng": -119.812},
 {"lat": 65.946, "lng": -119.801},
 {"lat": 65.901, "lng": -120.548}
+]
+},
+{
+  "id":4,
+  "type":"Clubs",
+  "title":"Night Club | Tequi-La-La",
+  "notes":"This is the Police Department",
+  "order":2,
+"strokecolor":"#7304D2",
+"fillcolor":"#9204D2",
+  "latlngarray": [
+{"lat": 70.652, "lng": -130.079},
+{"lat": 70.648, "lng": -129.915},
+{"lat": 70.594, "lng": -129.915},
+{"lat": 70.590, "lng": -130.101}
+]
+},
+{
+  "id":5,
+  "type":"Clubs",
+  "title":"Night Club | Vanilla Unicorn",
+  "notes":"This is the Police Department",
+  "order":2,
+"strokecolor":"#7304D2",
+"fillcolor":"#9204D2",
+  "latlngarray": [
+{"lat": 64.867, "lng": -123.751},
+{"lat": 64.923, "lng": -123.268},
+{"lat": 64.843, "lng": -123.147},
+{"lat": 64.726, "lng": -123.586}
 ]
    }
 ]
