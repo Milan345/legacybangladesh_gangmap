@@ -17,21 +17,6 @@
   {
     "id":2,
     "type":"Zones",
-    "title":"PD",
-    "notes":"This is the Police Department",
-    "order":1,
-  "strokecolor":"#1159F2",
-  "fillcolor":"#0686D4",
-      "latlngarray": [
-  {"lat": 66.156, "lng": -120.526},
-  {"lat": 66.160, "lng": -119.812},
-  {"lat": 65.946, "lng": -119.801},
-  {"lat": 65.901, "lng": -120.548}
-  ]
-  },
-  {
-    "id":3,
-    "type":"Zones",
     "title":"PDM",
     "notes":"Need a Ride? visit us",
     "order":2,
@@ -43,5 +28,20 @@
   {"lat": 65.527, "lng": -124.840},
   {"lat": 65.509, "lng": -125.400}
   ]
+},
+{
+  "id":3,
+  "type":"Zones",
+  "title":"PD",
+  "notes":"This is the Police Department",
+  "order":2,
+"strokecolor":"#08A513",
+"fillcolor":"#06D415",
+  "latlngarray": [
+{"lat": 66.156, "lng": -120.526},
+{"lat": 66.160, "lng": -119.812},
+{"lat": 65.946, "lng": -119.801},
+{"lat": 65.901, "lng": -120.548}
+]
    }
 ]
