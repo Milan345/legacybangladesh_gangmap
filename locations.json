@@ -1,81 +1,47 @@
 [
   {
     "id":1,
-    "type":"Gang Areas",
-    "title":"Ballas",
-    "notes":"Known As Purple Gang",
-    "order":1,
-  "strokecolor":"#551a8b",
-  "fillcolor":"#551a8b",
-    "latlngarray": [
-    {"lat": 62.109, "lng": -124.376},
-    {"lat": 61.876, "lng": -123.929},
-    {"lat": 61.637, "lng": -123.698},
-    {"lat": 61.637, "lng": -123.291},
-    {"lat": 61.835, "lng": -123.181},
-    {"lat": 62.032, "lng": -122.791},
-    {"lat": 62.260, "lng": -123.698},
-    {"lat": 62.331, "lng": -123.917}
-]
-  },
-  {
-    "id":2,
     "type":"Zones",
     "title":"PillBox",
     "notes":"Ran by Medical Professionals",
     "order":1,
-  "strokecolor":"#0ae5e0",
-  "fillcolor":"#0ae5e0",
+  "strokecolor":"#08A513",
+  "fillcolor":"#06D415",
     "latlngarray": [
-    {"lat": 67.716, "lng": -121.727},
-    {"lat": 67.604, "lng": -120.870},
-    {"lat": 67.364, "lng": -121.244},
-    {"lat": 67.482, "lng": -122.002}
-]
+  {"lat": 67.731, "lng": -121.741},
+  {"lat": 67.698, "lng": -120.643},
+  {"lat": 67.357, "lng": -121.159},
+  {"lat": 67.488, "lng": -122.005}
+  ]
+  },
+  {
+    "id":2,
+    "type":"Zones",
+    "title":"PD",
+    "notes":"This is the Police Department",
+    "order":1,
+  "strokecolor":"#1159F2",
+  "fillcolor":"#0686D4",
+    "latlngarray": [
+  {"lat": 67.731, "lng": -121.741},
+  {"lat": 67.698, "lng": -120.643},
+  {"lat": 67.357, "lng": -121.159},
+  {"lat": 67.488, "lng": -122.005}
+  ]
   },
   {
     "id":3,
-    "type":"Gang Areas",
-    "title":"Example | Legion Square",
-    "notes":"Ran by Medical Professionals",
+    "type":"Zones",
+    "title":"PDM",
+    "notes":"Need a Ride? visit us",
     "order":2,
-  "strokecolor":"#0ae5e0",
-  "fillcolor":"#0ae5e0",
+  "strokecolor":"#08A513",
+  "fillcolor":"#06D415",
     "latlngarray": [
-    {"lat": 66.629, "lng": -122.869},
-    {"lat": 66.546, "lng": -122.001},
-    {"lat": 65.921, "lng": -122.507},
-    {"lat": 66.051, "lng": -123.331}
-]
-},
-{
-  "id":4,
-  "type":"Zones",
-  "title":"Police Department",
-  "notes":"",
-  "order":2,
-"strokecolor":"#0ae5e0",
-"fillcolor":"#0ae5e0",
-  "latlngarray": [
-{"lat": 66.148, "lng": -120.585},
-{"lat": 66.139, "lng": -119.827},
-{"lat": 65.912, "lng": -119.805},
-{"lat": 65.871, "lng": -120.618}
-]
-},
-{
-  "id":5,
-  "type":"Business Areas",
-  "title":"Corporation",
-  "notes":"",
-  "order":2,
-"strokecolor":"#FF0000",
-"fillcolor":"#FFFF00",
-  "latlngarray": [
-{"lat": 66.860, "lng": -124.536},
-{"lat": 66.301, "lng": -125.009},
-{"lat": 66.477, "lng": -126.129},
-{"lat": 67.032, "lng": -125.613}
-]
+  {"lat": 65.718, "lng": -125.202},
+  {"lat": 65.682, "lng": -124.730},
+  {"lat": 65.527, "lng": -124.840},
+  {"lat": 65.509, "lng": -125.400}
+  ]
    }
 ]
