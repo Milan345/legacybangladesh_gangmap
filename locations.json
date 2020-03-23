@@ -3,7 +3,7 @@
     "id":1,
     "type":"Zones",
     "title":"PillBox",
-    "notes":"Ran by Medical Professionals",
+    "notes":"Ran by Medical Professionals, and is considered as Safe Zone",
     "order":1,
   "strokecolor":"#08A513",
   "fillcolor":"#06D415",
@@ -18,7 +18,7 @@
     "id":2,
     "type":"Zones",
     "title":"PDM",
-    "notes":"Need a Ride? visit us",
+    "notes":"Need a Ride? visit us. Also considered as Safe Zone when Manager is available",
     "order":2,
   "strokecolor":"#08A513",
   "fillcolor":"#06D415",
@@ -32,8 +32,8 @@
 {
   "id":3,
   "type":"Zones",
-  "title":"PD",
-  "notes":"This is the Police Department",
+  "title":"Police Department",
+  "notes":"This is the Sanandreas State Police. You got any problem? come here",
   "order":2,
 "strokecolor":"#0633D4",
 "fillcolor":"#0671D4",
@@ -48,7 +48,7 @@
   "id":4,
   "type":"Clubs",
   "title":"Night Club | Tequi-La-La",
-  "notes":"This is the Police Department",
+  "notes":"Get Drink, and chill",
   "order":2,
 "strokecolor":"#7304D2",
 "fillcolor":"#9204D2",
@@ -63,7 +63,7 @@
   "id":5,
   "type":"Clubs",
   "title":"Night Club | Vanilla Unicorn",
-  "notes":"This is the Police Department",
+  "notes":"Better not to come here with girlfriend",
   "order":2,
 "strokecolor":"#7304D2",
 "fillcolor":"#9204D2",
@@ -72,6 +72,23 @@
 {"lat": 64.923, "lng": -123.268},
 {"lat": 64.843, "lng": -123.147},
 {"lat": 64.726, "lng": -123.586}
+]
+},
+{
+  "id":6,
+  "type":"Zones",
+  "title":"Red Zone",
+  "notes":"Caution! Red zone area",
+  "order":2,
+"strokecolor":"#E50D0D",
+"fillcolor":"#F45959",
+  "latlngarray": [
+{"lat": 80.796, "lng": -105.976},
+{"lat": 80.976, "lng": -103.823},
+{"lat": 80.861, "lng": -103.405},
+{"lat": 80.837, "lng": -103.966},
+{"lat": 80.837, "lng": -104.478},
+{"lat": 80.751, "lng": -105.753}
 ]
    }
 ]
