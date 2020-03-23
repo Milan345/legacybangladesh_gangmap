@@ -123,8 +123,8 @@
   "title":"Court House",
   "notes":"Justice",
   "order":2,
-"strokecolor":"#E50D0D",
-"fillcolor":"#F45959",
+"strokecolor":"#7A7A7A",
+"fillcolor":"#A5A3A3",
   "latlngarray": [
 {"lat": 68.347, "lng": -122.600},
 {"lat": 68.241, "lng": -121.853},
