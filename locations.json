@@ -131,5 +131,22 @@
     {"lat": 68.086, "lng": -121.974},
     {"lat": 68.184, "lng": -122.765}
 ]
-  }
+},
+{
+  "id":9,
+  "type":"Zones",
+  "title":"Mayor's Mansion",
+  "notes":"Mayor Lives Here",
+  "order":2,
+"strokecolor":"#EFBEDB",
+"fillcolor":"#F4D9CC",
+  "latlngarray": [
+{"lat": 75.305, "lng": -149.921},
+{"lat": 75.280, "lng": -149.327},
+{"lat": 75.143, "lng": -149.360},
+{"lat": 75.078, "lng": -149.756},
+{"lat": 75.078, "lng": -150.371},
+{"lat": 75.244, "lng": -150.283}
+]
+},
 ]
