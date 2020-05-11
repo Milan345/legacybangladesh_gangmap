@@ -138,15 +138,22 @@
   "title":"Mayor's Mansion",
   "notes":"Mayor Lives Here",
   "order":2,
-"strokecolor":"#EFBEDB",
-"fillcolor":"#F4D9CC",
+"strokecolor":"#0097ff",
+"fillcolor":"#89aaff",
   "latlngarray": [
-{"lat": 75.305, "lng": -149.921},
-{"lat": 75.280, "lng": -149.327},
-{"lat": 75.143, "lng": -149.360},
-{"lat": 75.078, "lng": -149.756},
-{"lat": 75.078, "lng": -150.371},
-{"lat": 75.244, "lng": -150.283}
+{"lat": 75.140, "lng": -150.422},
+{"lat": 75.188, "lng": -150.257},
+{"lat": 75.244, "lng": -150.180},
+{"lat": 75.306, "lng": -149.961},
+{"lat": 75.303, "lng": -149.642},
+{"lat": 75.261, "lng": -149.323},
+{"lat": 75.182, "lng": -149.389},
+{"lat": 75.171, "lng": -149.543},
+{"lat": 75.115, "lng": -149.576},
+{"lat": 75.112, "lng": -149.763},
+{"lat": 75.087, "lng": -149.950},
+{"lat": 75.137, "lng": -150.070},
+{"lat": 75.095, "lng": -150.290}
 ]
 },
 {
@@ -302,12 +309,12 @@
 },
 {
   "id":16,
-  "type":"Gang Areas",
+  "type":"Business Areas",
   "title":"HQ territory",
   "notes":"",
   "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
   "latlngarray": [
 {"lat": 81.198, "lng": -107.904},
 {"lat": 81.044, "lng": -107.113},
@@ -324,17 +331,75 @@
 },
 {
   "id":17,
-  "type":"Zones",
+  "type":"Business Areas",
+  "title":"HQ territory",
+  "notes":"",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 81.094, "lng": -105.495},
+{"lat": 81.236, "lng": -104.539},
+{"lat": 81.354, "lng": -105.253},
+{"lat": 81.209, "lng": -106.396}
+]
+},
+{
+  "id":18,
+  "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"",
   "order":2,
 "strokecolor":"#7E7D7D",
 "fillcolor":"#E1E1E1",
   "latlngarray": [
-{"lat": 81.094, "lng": -105.495},
-{"lat": 81.236, "lng": -104.539},
-{"lat": 81.354, "lng": -105.253},
-{"lat": 81.209, "lng": -106.396}
+{"lat": 78.899, "lng": -123.676},
+{"lat": 78.918, "lng": -124.137},
+{"lat": 79.013, "lng": -124.653},
+{"lat": 79.127, "lng": -124.796},
+{"lat": 79.198, "lng": -124.291},
+{"lat": 79.202, "lng": -123.687},
+{"lat": 79.144, "lng": -123.335},
+{"lat": 79.065, "lng": -123.313},
+{"lat": 78.979, "lng": -123.412}
+]
+},
+{
+  "id":19,
+  "type":"Gang Areas",
+  "title":"HQ territory",
+  "notes":"",
+  "order":2,
+"strokecolor":"#7E7D7D",
+"fillcolor":"#E1E1E1",
+  "latlngarray": [
+{"lat": 76.587, "lng": -101.542},
+{"lat": 76.600, "lng": -102.201},
+{"lat": 76.684, "lng": -102.421},
+{"lat": 76.932, "lng": -102.168},
+{"lat": 76.984, "lng": -101.641},
+{"lat": 76.944, "lng": -101.169},
+{"lat": 76.802, "lng": -101.114},
+{"lat": 76.691, "lng": -101.213}
+]
+},
+{
+  "id":20,
+  "type":"Clubs",
+  "title":"Yellow Jack",
+  "notes":"Place to Relax and get Drink",
+  "order":2,
+"strokecolor":"#7304D2",
+"fillcolor":"#9204D2",
+  "latlngarray": [
+{"lat": 77.666, "lng": -105.677},
+{"lat": 77.746, "lng": -105.798},
+{"lat": 77.857, "lng": -105.468},
+{"lat": 77.919, "lng": -105.270},
+{"lat": 77.857, "lng": -104.776},
+{"lat": 77.802, "lng": -104.655},
+{"lat": 77.736, "lng": -104.710},
+{"lat": 77.692, "lng": -104.897}
 ]
 }
 ]
