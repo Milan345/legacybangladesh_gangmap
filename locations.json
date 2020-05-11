@@ -310,7 +310,7 @@
 {
   "id":16,
   "type":"Business Areas",
-  "title":"HQ territory",
+  "title":"Business territory",
   "notes":"",
   "order":2,
 "strokecolor":"#f5ad0f",
@@ -332,7 +332,7 @@
 {
   "id":17,
   "type":"Business Areas",
-  "title":"HQ territory",
+  "title":"Business territory",
   "notes":"",
   "order":2,
 "strokecolor":"#f5ad0f",
@@ -400,6 +400,29 @@
 {"lat": 77.802, "lng": -104.655},
 {"lat": 77.736, "lng": -104.710},
 {"lat": 77.692, "lng": -104.897}
+]
+},
+{
+  "id":19,
+  "type":"Gang Areas",
+  "title":"HQ territory",
+  "notes":"",
+  "order":2,
+"strokecolor":"#7E7D7D",
+"fillcolor":"#E1E1E1",
+  "latlngarray": [
+{"lat": 62.900, "lng": -113.099},
+{"lat": 62.930, "lng": -112.912},
+{"lat": 63.034, "lng": -112.583},
+{"lat": 63.134, "lng": -112.176},
+{"lat": 63.193, "lng": -111.880},
+{"lat": 63.208, "lng": -111.517},
+{"lat": 63.184, "lng": -111.297},
+{"lat": 63.119, "lng": -111.187},
+{"lat": 62.870, "lng": -110.979},
+{"lat": 62.643, "lng": -112.407},
+{"lat": 62.643, "lng": -112.901},
+{"lat": 62.749, "lng": -113.187}
 ]
 }
 ]
