@@ -232,26 +232,6 @@
 {
   "id":13,
   "type":"Gang Areas",
-  "title":"HQ Area",
-  "notes":"",
-  "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
-  "latlngarray": [
-{"lat": 62.873, "lng": -113.155},
-{"lat": 63.028, "lng": -112.628},
-{"lat": 63.177, "lng": -111.947},
-{"lat": 63.237, "lng": -111.475},
-{"lat": 63.132, "lng": -111.178},
-{"lat": 62.893, "lng": -110.958},
-{"lat": 62.773, "lng": -111.661},
-{"lat": 62.622, "lng": -112.529},
-{"lat": 62.657, "lng": -113.123}
-]
-},
-{
-  "id":14,
-  "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Nikola Place",
   "order":2,
@@ -267,7 +247,7 @@
 ]
 },
 {
-  "id":15,
+  "id":14,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Sam Austin Drive",
@@ -288,7 +268,7 @@
 ]
 },
 {
-  "id":16,
+  "id":15,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"North Calafia Way",
@@ -308,7 +288,7 @@
 ]
 },
 {
-  "id":17,
+  "id":16,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Grapeseed",
@@ -331,7 +311,7 @@
 ]
 },
 {
-  "id":18,
+  "id":17,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Madrazo Cartel",
@@ -349,7 +329,7 @@
 ]
 },
 {
-  "id":19,
+  "id":18,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"calafia way",
@@ -369,7 +349,7 @@
 ]
 },
 {
-  "id":20,
+  "id":19,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Senora Road",
@@ -388,7 +368,7 @@
 ]
 },
 {
-  "id":21,
+  "id":20,
   "type":"Clubs",
   "title":"Yellow Jack",
   "notes":"Place to Relax and get Drink",
@@ -407,7 +387,7 @@
 ]
 },
 {
-  "id":22,
+  "id":21,
   "type":"Gang Areas",
   "title":"HQ of Royal Street Mafia",
   "notes":"People dressed with Black suit and Red Tie lives here",
@@ -430,7 +410,7 @@
 ]
 },
 {
-  "id":23,
+  "id":22,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"The Lost MC Club",
@@ -445,7 +425,7 @@
 ]
 },
 {
-  "id":24,
+  "id":23,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Vanilla Unicorn",
@@ -461,6 +441,42 @@
 {"lat": 64.760, "lng": -122.588},
 {"lat": 64.487, "lng": -123.060},
 {"lat": 64.577, "lng": -123.423}
+]
+},
+{
+  "id":24,
+  "type":"Business Areas",
+  "title":"Business territory",
+  "notes":"Docks",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 57.341, "lng": -117.020},
+{"lat": 57.353, "lng": -112.746},
+{"lat": 56.496, "lng": -112.724},
+{"lat": 56.496, "lng": -112.010},
+{"lat": 54.924, "lng": -111.977},
+{"lat": 54.888, "lng": -116.697},
+{"lat": 55.015, "lng": -117.071}
+]
+},
+{
+  "id":25,
+  "type":"Business Areas",
+  "title":"Business territory",
+  "notes":"Weed Processing",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 78.947, "lng": -112.620},
+{"lat": 79.176, "lng": -109.632},
+{"lat": 79.016, "lng": -109.083},
+{"lat": 78.710, "lng": -108.138},
+{"lat": 78.663, "lng": -109.237},
+{"lat": 78.704, "lng": -110.467},
+{"lat": 78.766, "lng": -111.895}
 ]
 }
 ]
