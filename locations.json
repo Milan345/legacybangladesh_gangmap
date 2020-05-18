@@ -162,8 +162,8 @@
   "title":"The Lost HQ",
   "notes":"People with The Lost patches lives here",
   "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
+"strokecolor":"#FF4500",
+"fillcolor":"#FF6B35",
   "latlngarray": [
 {"lat": 62.833, "lng": -125.780},
 {"lat": 62.888, "lng": -125.527},
@@ -191,8 +191,8 @@
   "title":"N10 HQ",
   "notes":"Don't mess with the Green Peoples here",
   "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
+"strokecolor":"#5A5A00",
+"fillcolor":"#808000",
   "latlngarray": [
 {"lat": 62.595, "lng": -122.934},
 {"lat": 62.696, "lng": -123.231},
@@ -412,8 +412,8 @@
   "title":"HQ of Royal Street Mafia",
   "notes":"People dressed with Black suit and Red Tie lives here",
   "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
+"strokecolor":"#000000",
+"fillcolor":"#FF5555",
   "latlngarray": [
 {"lat": 62.900, "lng": -113.099},
 {"lat": 62.930, "lng": -112.912},
