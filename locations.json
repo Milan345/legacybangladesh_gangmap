@@ -435,5 +435,73 @@
 {"lat": 78.704, "lng": -110.467},
 {"lat": 78.766, "lng": -111.895}
 ]
+},
+{
+  "id":24,
+  "type":"Zones",
+  "title":"Legion Square",
+  "notes":"People come here to socialize, but don't roam alone here you might get kidnapped.",
+  "order":2,
+"strokecolor":"#08A513",
+"fillcolor":"#06D415",
+  "latlngarray": [
+{"lat": 66.663, "lng": -122.800},
+{"lat": 66.536, "lng": -121.943},
+{"lat": 65.921, "lng": -122.471},
+{"lat": 66.055, "lng": -123.372}
+]
+},
+{
+  "id":25,
+  "type":"Zones",
+  "title":"Life Invader",
+  "notes":"Want a Job? Come here",
+  "order":2,
+"strokecolor":"#08A513",
+"fillcolor":"#06D415",
+  "latlngarray": [
+{"lat": 68.749, "lng": -135.557},
+{"lat": 68.836, "lng": -135.304},
+{"lat": 68.959, "lng": -134.700},
+{"lat": 68.895, "lng": -134.360},
+{"lat": 68.753, "lng": -135.052},
+{"lat": 68.713, "lng": -135.502}
+]
+},
+{
+  "id":26,
+  "type":"Business Areas",
+  "title":"Business territory",
+  "notes":"Junk Yard",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 78.048, "lng": -102.032},
+{"lat": 78.084, "lng": -101.526},
+{"lat": 78.071, "lng": -100.944},
+{"lat": 78.012, "lng": -100.681},
+{"lat": 77.909, "lng": -100.691},
+{"lat": 77.772, "lng": -100.713},
+{"lat": 77.721, "lng": -101.318},
+{"lat": 77.751, "lng": -101.988},
+{"lat": 77.950, "lng": -102.120}
+]
+},
+{
+  "id":27,
+  "type":"Unowned",
+  "title":"Unowned | Hookies",
+  "notes":"A diner which bikers hang out at to grab some food while riding the long road",
+  "order":2,
+"strokecolor":"#FFFCFC",
+"fillcolor":"#FFFCFC",
+  "latlngarray": [
+{"lat": 80.140, "lng": -145.894},
+{"lat": 80.094, "lng": -145.455},
+{"lat": 80.011, "lng": -145.631},
+{"lat": 79.959, "lng": -146.169},
+{"lat": 79.986, "lng": -146.411}
+]
 }
 ]
