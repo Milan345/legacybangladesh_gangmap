@@ -250,7 +250,7 @@
 ]
 },
 {
-  "id":13,
+  "id":14,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Nikola Place",
@@ -267,7 +267,7 @@
 ]
 },
 {
-  "id":14,
+  "id":15,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Sam Austin Drive",
@@ -288,7 +288,7 @@
 ]
 },
 {
-  "id":15,
+  "id":16,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"North Calafia Way",
@@ -308,7 +308,7 @@
 ]
 },
 {
-  "id":16,
+  "id":17,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Grapeseed",
@@ -331,7 +331,7 @@
 ]
 },
 {
-  "id":17,
+  "id":18,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Madrazo Cartel",
@@ -349,7 +349,7 @@
 ]
 },
 {
-  "id":18,
+  "id":19,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"calafia way",
@@ -369,7 +369,7 @@
 ]
 },
 {
-  "id":19,
+  "id":20,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Senora Road",
@@ -388,7 +388,7 @@
 ]
 },
 {
-  "id":20,
+  "id":21,
   "type":"Clubs",
   "title":"Yellow Jack",
   "notes":"Place to Relax and get Drink",
@@ -407,7 +407,7 @@
 ]
 },
 {
-  "id":19,
+  "id":22,
   "type":"Gang Areas",
   "title":"HQ of Royal Street Mafia",
   "notes":"People dressed with Black suit and Red Tie lives here",
@@ -427,6 +427,40 @@
 {"lat": 62.643, "lng": -112.407},
 {"lat": 62.643, "lng": -112.901},
 {"lat": 62.749, "lng": -113.187}
+]
+},
+{
+  "id":23,
+  "type":"Business Areas",
+  "title":"Business territory",
+  "notes":"The Lost MC Club",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 69.236, "lng": -115.486},
+{"lat": 69.418, "lng": -115.035},
+{"lat": 69.232, "lng": -114.211},
+{"lat": 69.037, "lng": -114.585}
+]
+},
+{
+  "id":24,
+  "type":"Business Areas",
+  "title":"Business territory",
+  "notes":"Vanilla Unicorn",
+  "order":2,
+"strokecolor":"#f5ad0f",
+"fillcolor":"#e3aa15",
+  "latlngarray": [
+{"lat": 64.708, "lng": -123.572},
+{"lat": 64.900, "lng": -123.780},
+{"lat": 64.900, "lng": -123.473},
+{"lat": 64.960, "lng": -123.209},
+{"lat": 65.045, "lng": -122.566},
+{"lat": 64.760, "lng": -122.588},
+{"lat": 64.487, "lng": -123.060},
+{"lat": 64.577, "lng": -123.423}
 ]
 }
 ]
