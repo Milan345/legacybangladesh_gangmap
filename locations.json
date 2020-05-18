@@ -77,49 +77,6 @@
   {
     "id":6,
     "type":"Zones",
-    "title":"Red Zone",
-    "notes":"Caution! Red zone area",
-    "order":2,
-  "strokecolor":"#E50D0D",
-  "fillcolor":"#F45959",
-    "latlngarray": [
-    {"lat": 80.796, "lng": -105.976},
-    {"lat": 80.976, "lng": -103.823},
-    {"lat": 80.861, "lng": -103.405},
-    {"lat": 80.837, "lng": -103.966},
-    {"lat": 80.837, "lng": -104.478},
-    {"lat": 80.751, "lng": -105.753}
-]
-  },
-  {
-    "id":7,
-    "type":"Zones",
-    "title":"Red Zone",
-    "notes":"Caution! Red zone area",
-    "order":2,
-  "strokecolor":"#E50D0D",
-  "fillcolor":"#F45959",
-    "latlngarray": [
-    {"lat": 80.190, "lng": -122.552},
-    {"lat": 80.336, "lng": -122.651},
-    {"lat": 80.452, "lng": -122.003},
-    {"lat": 80.461, "lng": -121.585},
-    {"lat": 80.421, "lng": -121.223},
-    {"lat": 80.375, "lng": -121.014},
-    {"lat": 80.318, "lng": -120.893},
-    {"lat": 80.247, "lng": -120.673},
-    {"lat": 80.154, "lng": -120.684},
-    {"lat": 80.096, "lng": -120.750},
-    {"lat": 80.056, "lng": -121.266},
-    {"lat": 80.016, "lng": -121.739},
-    {"lat": 80.063, "lng": -121.981},
-    {"lat": 80.126, "lng": -122.387},
-    {"lat": 80.171, "lng": -122.365}
-]
-  },
-  {
-    "id":8,
-    "type":"Zones",
     "title":"Court House",
     "notes":"Justice",
     "order":2,
@@ -133,7 +90,7 @@
 ]
 },
 {
-  "id":9,
+  "id":7,
   "type":"Zones",
   "title":"Mayor's Mansion",
   "notes":"Mayor Lives Here",
@@ -157,7 +114,7 @@
 ]
 },
 {
-  "id":10,
+  "id":8,
   "type":"Gang Areas",
   "title":"The Lost HQ",
   "notes":"People with The Lost patches lives here",
@@ -186,7 +143,7 @@
 ]
 },
 {
-  "id":11,
+  "id":9,
   "type":"Gang Areas",
   "title":"N10 HQ",
   "notes":"Don't mess with the Green Peoples here",
@@ -212,7 +169,7 @@
 ]
 },
 {
-  "id":12,
+  "id":10,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Forum Drive 13",
@@ -230,7 +187,7 @@
 ]
 },
 {
-  "id":13,
+  "id":11,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Nikola Place",
@@ -247,7 +204,7 @@
 ]
 },
 {
-  "id":14,
+  "id":12,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Sam Austin Drive",
@@ -268,7 +225,7 @@
 ]
 },
 {
-  "id":15,
+  "id":13,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"North Calafia Way",
@@ -288,7 +245,7 @@
 ]
 },
 {
-  "id":16,
+  "id":14,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Grapeseed",
@@ -311,7 +268,7 @@
 ]
 },
 {
-  "id":17,
+  "id":15,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Madrazo Cartel",
@@ -329,7 +286,7 @@
 ]
 },
 {
-  "id":18,
+  "id":16,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"calafia way",
@@ -349,7 +306,7 @@
 ]
 },
 {
-  "id":19,
+  "id":17,
   "type":"Gang Areas",
   "title":"HQ territory",
   "notes":"Senora Road",
@@ -368,7 +325,7 @@
 ]
 },
 {
-  "id":20,
+  "id":18,
   "type":"Clubs",
   "title":"Yellow Jack",
   "notes":"Place to Relax and get Drink",
@@ -387,7 +344,7 @@
 ]
 },
 {
-  "id":21,
+  "id":19,
   "type":"Gang Areas",
   "title":"HQ of Royal Street Mafia",
   "notes":"People dressed with Black suit and Red Tie lives here",
@@ -410,7 +367,7 @@
 ]
 },
 {
-  "id":22,
+  "id":20,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"The Lost MC Club",
@@ -425,7 +382,7 @@
 ]
 },
 {
-  "id":23,
+  "id":21,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Vanilla Unicorn",
@@ -444,7 +401,7 @@
 ]
 },
 {
-  "id":24,
+  "id":22,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Docks",
@@ -462,7 +419,7 @@
 ]
 },
 {
-  "id":25,
+  "id":23,
   "type":"Business Areas",
   "title":"Business territory",
   "notes":"Liquor Ace",
