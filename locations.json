@@ -171,7 +171,7 @@
 {
   "id":10,
   "type":"Gang Areas",
-  "title":"HQ territory",
+  "title":"Unowned | HQ territory",
   "notes":"Forum Drive 13",
   "order":2,
 "strokecolor":"#7E7D7D",
@@ -189,7 +189,7 @@
 {
   "id":11,
   "type":"Gang Areas",
-  "title":"HQ territory",
+  "title":"Unowned | HQ territory",
   "notes":"Nikola Place",
   "order":2,
 "strokecolor":"#7E7D7D",
@@ -206,11 +206,11 @@
 {
   "id":12,
   "type":"Gang Areas",
-  "title":"HQ territory",
-  "notes":"Sam Austin Drive",
+  "title":"Wolvs HQ",
+  "notes":"This is the Wolvs Den",
   "order":2,
-"strokecolor":"#7E7D7D",
-"fillcolor":"#E1E1E1",
+"strokecolor":"#3E1E1E",
+"fillcolor":"#614531",
   "latlngarray": [
 {"lat": 69.705, "lng": -138.633},
 {"lat": 69.674, "lng": -139.182},
@@ -227,7 +227,7 @@
 {
   "id":13,
   "type":"Gang Areas",
-  "title":"HQ territory",
+  "title":"Unowned | HQ territory",
   "notes":"North Calafia Way",
   "order":2,
 "strokecolor":"#7E7D7D",
@@ -247,8 +247,8 @@
 {
   "id":14,
   "type":"Business Areas",
-  "title":"Business territory",
-  "notes":"Grapeseed",
+  "title":"Unowned | Business territory",
+  "notes":"Grapeseed, there is a War going on in between The Lost & N10 for this Land",
   "order":2,
 "strokecolor":"#f5ad0f",
 "fillcolor":"#e3aa15",
@@ -270,7 +270,7 @@
 {
   "id":15,
   "type":"Business Areas",
-  "title":"Business territory",
+  "title":"Unowned | Business territory",
   "notes":"Madrazo Cartel",
   "order":2,
 "strokecolor":"#f5ad0f",
@@ -288,7 +288,7 @@
 {
   "id":16,
   "type":"Gang Areas",
-  "title":"HQ territory",
+  "title":"Unowned | HQ territory",
   "notes":"calafia way",
   "order":2,
 "strokecolor":"#7E7D7D",
@@ -308,7 +308,7 @@
 {
   "id":17,
   "type":"Gang Areas",
-  "title":"HQ territory",
+  "title":"Unowned | HQ territory",
   "notes":"Senora Road",
   "order":2,
 "strokecolor":"#7E7D7D",
@@ -369,7 +369,7 @@
 {
   "id":20,
   "type":"Business Areas",
-  "title":"Business territory",
+  "title":"Unowned | Business territory",
   "notes":"The Lost MC Club",
   "order":2,
 "strokecolor":"#f5ad0f",
@@ -384,7 +384,7 @@
 {
   "id":21,
   "type":"Business Areas",
-  "title":"Business territory",
+  "title":"Unowned | Business territory",
   "notes":"Vanilla Unicorn",
   "order":2,
 "strokecolor":"#f5ad0f",
@@ -403,11 +403,11 @@
 {
   "id":22,
   "type":"Business Areas",
-  "title":"Business territory",
-  "notes":"Docks",
+  "title":"Docks",
+  "notes":"Keep an eye out for the Wolvs",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#3E1E1E",
+"fillcolor":"#614531",
   "latlngarray": [
 {"lat": 57.341, "lng": -117.020},
 {"lat": 57.353, "lng": -112.746},
@@ -421,11 +421,11 @@
 {
   "id":23,
   "type":"Business Areas",
-  "title":"Business territory",
-  "notes":"Liquor Ace",
+  "title":"Liquor Ace",
+  "notes":"Run's by the RSM",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#000000",
+"fillcolor":"#FF5555",
   "latlngarray": [
 {"lat": 78.947, "lng": -112.620},
 {"lat": 79.176, "lng": -109.632},
@@ -471,7 +471,7 @@
 {
   "id":26,
   "type":"Business Areas",
-  "title":"Business territory",
+  "title":"Unowned | Business territory",
   "notes":"Junk Yard",
   "order":2,
 "strokecolor":"#f5ad0f",
