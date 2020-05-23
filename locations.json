@@ -247,11 +247,11 @@
 {
   "id":14,
   "type":"Business Areas",
-  "title":"Unowned | Business territory",
-  "notes":"Grapeseed, there is a War going on in between The Lost & N10 for this Land",
+  "title":"Grapeseed",
+  "notes":"The Lost & N10 had a big fight for this land. Now it's controlled by The Lost",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#FF4500",
+"fillcolor":"#FF6B35",
   "latlngarray": [
 {"lat": 81.155, "lng": -108.510},
 {"lat": 81.469, "lng": -105.929},
