@@ -421,11 +421,11 @@
 {
   "id":23,
   "type":"Business Areas",
-  "title":"Unowned | North calafia way",
-  "notes":"Watch out for wild cats in here",
+  "title":"North calafia way",
+  "notes":"Run's by the RSM",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#000000",
+"fillcolor":"#FF5555",
   "latlngarray": [
 {"lat": 80.447, "lng": -122.017},
 {"lat": 80.456, "lng": -121.600},
