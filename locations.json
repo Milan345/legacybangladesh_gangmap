@@ -326,12 +326,12 @@
 },
 {
   "id":18,
-  "type":"Clubs",
+  "type":"Business Areas",
   "title":"Yellow Jack",
-  "notes":"Place to Relax and get Drink",
+  "notes":"RSM comes here to Relax and get Drink",
   "order":2,
-"strokecolor":"#7304D2",
-"fillcolor":"#9204D2",
+"strokecolor":"#000000",
+"fillcolor":"#FF5555",
   "latlngarray": [
 {"lat": 77.666, "lng": -105.677},
 {"lat": 77.746, "lng": -105.798},
@@ -369,11 +369,11 @@
 {
   "id":20,
   "type":"Business Areas",
-  "title":"Unowned | Business territory",
-  "notes":"The Lost MC Club",
+  "title":"The Lost MC Club",
+  "notes":"",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#FF4500",
+"fillcolor":"#FF6B35",
   "latlngarray": [
 {"lat": 69.236, "lng": -115.486},
 {"lat": 69.418, "lng": -115.035},
@@ -384,11 +384,11 @@
 {
   "id":21,
   "type":"Business Areas",
-  "title":"Unowned | Business territory",
-  "notes":"Vanilla Unicorn",
+  "title":"Vanilla Unicorn",
+  "notes":"Green boys are all over this place. Watch Out!",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#5A5A00",
+"fillcolor":"#808000",
   "latlngarray": [
 {"lat": 64.708, "lng": -123.572},
 {"lat": 64.900, "lng": -123.780},
@@ -482,11 +482,11 @@
 {
   "id":26,
   "type":"Business Areas",
-  "title":"Unowned | Business territory",
-  "notes":"Junk Yard",
+  "title":"Junk Yard",
+  "notes":"Green Peoples runs this place",
   "order":2,
-"strokecolor":"#f5ad0f",
-"fillcolor":"#e3aa15",
+"strokecolor":"#5A5A00",
+"fillcolor":"#808000",
   "latlngarray": [
 {"lat": 78.048, "lng": -102.032},
 {"lat": 78.084, "lng": -101.526},
@@ -513,6 +513,21 @@
 {"lat": 80.011, "lng": -145.631},
 {"lat": 79.959, "lng": -146.169},
 {"lat": 79.986, "lng": -146.411}
+]
+},
+{
+  "id":28,
+  "type":"Clubs",
+  "title":"Yellow Jack",
+  "notes":"Grab yourself a drink in here",
+  "order":2,
+"strokecolor":"#7304D2",
+"fillcolor":"#9204D2",
+  "latlngarray": [
+{"lat": 77.815, "lng": -105.376},
+{"lat": 77.876, "lng": -105.189},
+{"lat": 77.839, "lng": -104.893},
+{"lat": 77.779, "lng": -105.068}
 ]
 }
 ]
