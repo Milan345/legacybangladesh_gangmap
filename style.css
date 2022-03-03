@@ -1,9 +1,10 @@
 * { margin: 0; padding: 0; border: none; }
-body { font-family: Roboto, sans-serif; color: #333; }
+body { font-family: sans-serif; color: #333; }
 li { list-style: none; }
 
 .left { float: left; }
 .right { float: right; }
+.notes { font-size: 1rem; }
 
 header {
 	position: absolute;
@@ -136,9 +137,8 @@ header a.active {
 	margin-bottom: 3px;
 	overflow: hidden;
 	min-width: 160px;
-	max-width: 200px;
+	max-width: 300px;
 	white-space: nowrap;
-	text-overflow: ellipsis;
 }
 
 .types .type label {
@@ -163,12 +163,12 @@ header a.active {
 }
 
 .tt {
-width: 20px;
-height: 20px;
-background-image: url(icons/signpost.png);
-display: inline-block;
-background-position: 0 61px;
-float: right;
+	width: 20px;
+	height: 20px;
+	background-image: url(icons/signpost.png);
+	display: inline-block;
+	background-position: 0 61px;
+	float: right;
 }
 
 .types .details {
@@ -203,11 +203,11 @@ html { height: 100% }
 body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100% }
 
-/* 
+/*
  * Mobile devices
  */
 
-@media only screen and (max-device-width: 568px) { 
+@media only screen and (max-device-width: 568px) {
 	.right {
 		/*display: none;*/
 		max-width: 300px;
@@ -226,7 +226,7 @@ body { height: 100%; margin: 0; padding: 0 }
 	}
 }
 
-/* 
+/*
  * Responsive videos
  */
 
