@@ -1,17 +1,30 @@
 [
   {
-    "id":1,
-    "type":"Zones",
-    "title":"PillBox",
-    "notes":"Ran by Medical Professionals, and is considered as Safe Zone",
-    "order":1,
-  "strokecolor":"#08A513",
-  "fillcolor":"#06D415",
-    "latlngarray": [
-    {"lat": 67.731, "lng": -121.741},
-    {"lat": 67.698, "lng": -120.643},
-    {"lat": 67.357, "lng": -121.159},
-    {"lat": 67.488, "lng": -122.005}
-]
+		"id": 1001,
+		"type": "Territories",
+		"title": "Ballas",
+		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
+		"order": 1,
+		"strokecolor": "551A8B",
+		"fillcolor": "551A8B",
+		"latlngarray": [
+			{"lat": 62.383, "lng": -122.107},
+			{"lat": 61.797, "lng": -123.182},
+			{"lat": 61.719, "lng": -123.248},
+			{"lat": 61.636, "lng": -123.281},
+			{"lat": 61.636, "lng": -123.677},
+			{"lat": 61.766, "lng": -123.775},
+			{"lat": 61.937, "lng": -124.105},
+			{"lat": 62.465, "lng": -125.632},
+			{"lat": 62.687, "lng": -126.236},
+			{"lat": 62.733, "lng": -126.083},
+			{"lat": 62.803, "lng": -125.951},
+			{"lat": 62.838, "lng": -125.808},
+			{"lat": 62.878, "lng": -125.533},
+			{"lat": 62.975, "lng": -125.072},
+			{"lat": 63.155, "lng": -124.116}
+		]
   }
 ]
+
