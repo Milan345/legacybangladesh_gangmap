@@ -24,6 +24,30 @@
 			{"lat": 62.975, "lng": -125.072},
 			{"lat": 63.155, "lng": -124.116}
 		]
-  }
+  },
+  {
+	"id": 1002,
+	"type": "Legal",
+	"title": "FIB",
+	"notes": "feds everywhere..!!!",
+	"order": 2,
+	"strokecolor": "#055ef0",
+	"fillcolor": "#055ef0",
+	"latlngarray": [
+		{"lat": 68.766, "lng": -99.486},
+		{"lat": 68.770, "lng": -100.091},
+		{"lat": 68.554, "lng": -100.772},
+		{"lat": 68.316, "lng": -100.926},
+		{"lat": 67.973, "lng": -100.145},
+		{"lat": 68.166, "lng": -99.475}
+		],
+		"images": 
+		[
+			{
+				"headline": "Federal Investigation Bureau HQ",
+				"url": "https://cdn.discordapp.com/attachments/902193697905598535/951780995852550164/Screenshot_195.png"
+			}
+		]
+	}
 ]
 
