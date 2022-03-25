@@ -48,6 +48,26 @@
 				"url": "https://cdn.discordapp.com/attachments/902193697905598535/951780995852550164/Screenshot_195.png"
 			}
 		]
+	},
+	{
+		"id": 1001,
+		"type": "Territories",
+		"title": "Red Mafia",
+		"notes": "The Red Mafia is one of the several gangs located in Brouge Avenue, led by a man named Don Casanova.",
+		"order": 3,
+		"strokecolor": "F00513",
+		"fillcolor": "F00513",
+		"latlngarray": [
+			{"lat": 63.315, "lng": -122.282},
+			{"lat": 63.231, "lng": -122.019},
+			{"lat": 63.162, "lng": -121.821},
+			{"lat": 63.058, "lng": -121.579},
+			{"lat": 62.898, "lng": -121.832},
+			{"lat": 62.813, "lng": -122.052},
+			{"lat": 62.893, "lng": -122.359},
+			{"lat": 62.993, "lng": -122.535},
+			{"lat": 63.097, "lng": -122.722}
+			]
 	}
 ]
 
