@@ -50,7 +50,7 @@
 		]
 	},
 	{
-		"id": 1001,
+		"id": 1003,
 		"type": "Territories",
 		"title": "Red Mafia",
 		"notes": "The Red Mafia is one of the several gangs located in Brouge Avenue, led by a man named Don Casanova.",
@@ -67,6 +67,24 @@
 			{"lat": 62.893, "lng": -122.359},
 			{"lat": 62.993, "lng": -122.535},
 			{"lat": 63.097, "lng": -122.722}
+			]
+	},
+	{
+		"id": 1004,
+		"type": "Territories",
+		"title": "Marabuta Grande",
+		"notes": "Commonly known as ESMG, a street gang lives in Amarillo Vista. They mostly roam in color Blue",
+		"order": 4,
+		"strokecolor": "#0093ff",
+		"fillcolor": "0093ff",
+		"latlngarray": [
+			{"lat": 63.388, "lng": -111.632},
+			{"lat": 63.136, "lng": -111.203},
+			{"lat": 63.091, "lng": -111.148},
+			{"lat": 62.882, "lng": -110.961},
+			{"lat": 62.539, "lng": -113.016},
+			{"lat": 62.952, "lng": -113.367},
+			{"lat": 63.161, "lng": -112.379}
 			]
 	}
 ]
