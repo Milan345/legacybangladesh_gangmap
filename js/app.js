@@ -1,3 +1,6 @@
+let labelIndex = 0;
+
+
 $(function() {
 	var showCoordinations = true;
 	var $types = $('.types');
@@ -33,6 +36,7 @@ $(function() {
 				strokeWeight: 2,
 				fillColor: '#' + this.get('fillcolor'),
 				fillOpacity: 0.35,
+				zIndex: this.get('order') || 0,
 			});
 
 			var bounds = new google.maps.LatLngBounds();
@@ -98,6 +102,12 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
+			name: 'Neighborhoods',
+			icon: 'radar/radar_warehouse.png',
+			type: 'General',
+			enabled: false,
+		},
+		{
 			name: 'Territories',
 			icon: 'General/wall-breach.png',
 			type: 'General',
@@ -139,12 +149,14 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
+		/*
 		{
 			name: 'Deprecated',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: false,
 		},
+		*/
 	]));
 
 	var showingLabels;
@@ -173,17 +185,32 @@ $(function() {
 				type = $e.val(),
 				showLocations = $e.is(':checked'),
 				models = locations.where({ type: type });
-			allLocations = locations.filter(function(loc) {
-				return loc.get('marker').visible !== false;
-			});
+
+			allLocations = categories.chain()
+				.filter(function(c) {
+					return c.get('enabled');
+				})
+				.map(function(c) {
+					return c.get('name');
+				})
+				.map(function(name) {
+					return locations.where({ type: name });
+				})
+				.flatten()
+				.value();
 
 			if (type == 'labels' && showLocations) {
 				Vent.trigger('labels:visible', allLocations);
 				showingLabels = true;
+				return;
 			} else if (type == 'labels') {
 				Vent.trigger('labels:invisible', allLocations);
 				showingLabels = false;
+				return;
 			}
+
+			const cat = categories.findWhere({ name: $e.val() });
+			cat.set('enabled', showLocations);
 
 			if (showLocations) {
 				Vent.trigger('locations:visible', models);
@@ -234,7 +261,7 @@ $(function() {
 		},
 
 		showMarker: function(e) {
-			var location = locations.get($(e.currentTarget).data('id'));
+			var location = locations.findWhere({ title: $(e.currentTarget).text() });
 			location.highlightMarker();
 			var bounds = new google.maps.LatLngBounds();
 			location
@@ -270,17 +297,14 @@ $(function() {
 		initialize: function() {
 			this.mapType = 'Atlas';
 			this.mapDetails = {
-				'Atlas': '#0fa8d2',
-				'Satellite': '#143d6b',
-				'Road': '#1862ad',
-				'Atlas_Roads': '#0fa8d2',
-				'Satellite_Roads': '#143d6b',
-				'Road_Roads': '#1862ad'
+				'Atlas':     '#0FA8D2',
+				'Satellite': '#143D6B',
+				'Road':      '#1862AD',
 			};
 
 			this.mapOptions = {
-				center: new google.maps.LatLng(66, -125),
-				zoom: 5,
+				center: new google.maps.LatLng(-60, -20),
+				zoom: 3,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
 				backgroundColor: 'hsla(0, 0%, 0%, 0)',
@@ -340,6 +364,7 @@ $(function() {
 					moveable: true,
 					draggable: true,
 					position: e.latLng,
+					label: String(labelIndex++),
 				});
 				window.locs.push(marker);
 				// Check if coords mode is enabled
@@ -361,10 +386,9 @@ $(function() {
 				types,
 				function(type) {
 					var mapTypeOptions = {
+						minZoom: 1,
 						maxZoom: 7,
-						minZoom: 3,
 						name: type,
-						tileSize: new google.maps.Size(256, 256),
 						getTileUrl: this.getTileImage,
 					};
 					map.mapTypes.set(type, new google.maps.ImageMapType(mapTypeOptions));
@@ -448,7 +472,11 @@ $(function() {
 
 		hideLabels: function(locations) {
 			_.each(locations, function(location) {
-				location.get('label').set('fontSize', 0);
+				var label = location.get('label');
+				if (!label.getMap()) {
+					label.setMap(this.map);
+				}
+				label.set('fontSize', 0);
 			});
 		},
 
@@ -520,12 +548,24 @@ $(function() {
 });
 
 function printArray() {
-	var msg = '[\n';
+	var msg = 'Submit new regions here:\n'
+	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
+	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
+	msg += '```json\n\t{\n\t\t"type": "Territories",'
+	+ '\n\t\t"title": "<edit this>",'
+	+ '\n\t\t"notes": "<edit this>",'
+	+ '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",'
+	+ '\n\t\t"order": 0,'
+	+ '\n\t\t"strokecolor": "FF0000",'
+	+ '\n\t\t"fillcolor": "FF0000",'
+	+ '\n\t\t"latlngarray": [\n';
 	var i;
 	for (i = 0; i < window.locs.length; i++) {
-		msg += '{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
+		msg += '\t\t\t{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
 	}
-	msg += ']';
+	msg += '\t\t]'
+	+ '\n\t},\n```';
+	alert(msg);
 	console.log(msg);
 }
 
@@ -546,10 +586,7 @@ function addruler(map) {
 		draggable: true,
 	});
 
-	var ruler1label = new Label({ map: map });
-	var ruler2label = new Label({ map: map });
-	ruler1label.bindTo('position', ruler1, 'position');
-	ruler2label.bindTo('position', ruler2, 'position');
+	var ruler1label = new Label({ map: map, position: map.getCenter(), text: '0m' });
 
 	rulerpoly = new google.maps.Polyline({
 		path: [ruler1.position, ruler2.position],
@@ -559,19 +596,15 @@ function addruler(map) {
 	});
 	rulerpoly.setMap(map);
 
-	ruler1label.set('text', '0m');
-	ruler2label.set('text', '0m');
-
 	google.maps.event.addListener(ruler1, 'drag', function() {
+		ruler1label.set('position', ruler1.position);
 		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
 		ruler1label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-		ruler2label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
 	});
 
 	google.maps.event.addListener(ruler2, 'drag', function() {
 		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
 		ruler1label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-		ruler2label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
 	});
 
 	ruler1.setVisible(true);
@@ -581,7 +614,7 @@ function addruler(map) {
 
 function distance(lat1, lon1, lat2, lon2) {
 	var um = 'km'; // km | ft (choose the constant)
-	var R = 6371;
+	var R = 1800;
 	if (um == 'ft') {
 		R = 20924640; // ft
 	}
@@ -590,15 +623,7 @@ function distance(lat1, lon1, lat2, lon2) {
 	var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos((lat1 * Math.PI) / 180) * Math.cos((lat2 * Math.PI) / 180) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
 	var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 	var d = R * c * 4;
-	if (um == 'km') {
-		if (d > 1000) {
-			return Math.round(d / 1000) + 'km';
-		} else if (d > 1) {
-			return Math.round(d) + 'm';
-		}
-	}
-
-	return d;
+	return Math.round(d) + 'm';
 }
 
 // Define the overlay, derived from google.maps.OverlayView
