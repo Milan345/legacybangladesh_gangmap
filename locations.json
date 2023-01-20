@@ -2230,21 +2230,24 @@
 		]
 	},
 	{
-		"type": "Neighborhoods",
-		"title": "Bolingbroke Penitentiary",
+		"type": "Territories",
+		"title": "SOL Hq",
 		"notes": "",
 		"order": 1,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "FE0B04",
 		"latlngarray": [
-			{"lat": 19.045, "lng": 30.489},
-			{"lat": 19.045, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.366},
-			{"lat": 6.778, "lng": 39.366},
-			{"lat": 6.778, "lng": 37.705},
-			{"lat": 5.784, "lng": 37.705},
-			{"lat": 5.784, "lng": 30.489}
+			{"lat": 78.662, "lng": -14.073},
+            {"lat": 77.261, "lng": -8.402},
+            {"lat": 75.139, "lng": -16.938},
+            {"lat": 74.211, "lng": -22.183},
+            {"lat": 73.921, "lng": -25.259},
+            {"lat": 74.234, "lng": -27.193},
+            {"lat": 75.207, "lng": -27.720},
+            {"lat": 76.078, "lng": -24.820},
+            {"lat": 76.899, "lng": -21.392},
+            {"lat": 77.859, "lng": -18.140}
 		]
 	}
+
 ]
