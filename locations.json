@@ -799,20 +799,6 @@
 	},
 	{
 		"type": "Neighborhoods",
-		"title": "Legion Square",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -65.381, "lng": -10.994},
-			{"lat": -65.381, "lng": -7.324},
-			{"lat": -67.321, "lng": -7.324},
-			{"lat": -67.321, "lng": -10.994}
-		]
-	},
-	{
-		"type": "Neighborhoods",
 		"title": "Little Seoul",
 		"notes": "",
 		"order": 0,
@@ -937,22 +923,6 @@
 			{"lat": -57.669, "lng": 25.338},
 			{"lat": -65.079, "lng": 25.338},
 			{"lat": -65.079, "lng": 10.272}
-		]
-	},
-	{
-		"type": "Neighborhoods",
-		"title": "Mission Row",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -65.788, "lng": -7.324},
-			{"lat": -65.788, "lng": -0.351},
-			{"lat": -68.915, "lng": -0.351},
-			{"lat": -68.915, "lng": -9.105},
-			{"lat": -67.321, "lng": -9.105},
-			{"lat": -67.321, "lng": -7.324}
 		]
 	},
 	{
@@ -1451,28 +1421,6 @@
 	},
 	{
 		"type": "Neighborhoods",
-		"title": "Pillbox Hill",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -63.921, "lng": -25.245},
-			{"lat": -63.921, "lng": -22.826},
-			{"lat": -61.903, "lng": -22.826},
-			{"lat": -61.903, "lng": -6.646},
-			{"lat": -65.788, "lng": -6.646},
-			{"lat": -65.788, "lng": -7.324},
-			{"lat": -65.381, "lng": -7.324},
-			{"lat": -65.381, "lng": -10.994},
-			{"lat": -67.321, "lng": -10.994},
-			{"lat": -67.321, "lng": -9.105},
-			{"lat": -68.915, "lng": -9.105},
-			{"lat": -68.915, "lng": -25.245}
-		]
-	},
-	{
-		"type": "Neighborhoods",
 		"title": "Procopio Beach",
 		"notes": "",
 		"order": 0,
@@ -1915,20 +1863,6 @@
 			{"lat": -80.331, "lng": 24.856},
 			{"lat": -83.149, "lng": 24.856},
 			{"lat": -83.149, "lng": 5.081}
-		]
-	},
-	{
-		"type": "Neighborhoods",
-		"title": "Textile City",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": -61.903, "lng": -6.646},
-			{"lat": -61.903, "lng": -0.351},
-			{"lat": -65.788, "lng": -0.351},
-			{"lat": -65.788, "lng": -6.646}
 		]
 	},
 	{
