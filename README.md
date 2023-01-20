@@ -12,12 +12,12 @@ This interactive (Google) map shows you the location of current Legacy-Roleplay 
 
 ## How to request additional/removal territory
 1. Please Go To [Adding Territory/removal Template](https://github.com/W1lsonCodes/legacy-map-issue-tracker/blob/master/template/add_territory.md)
-2. Click on [Issues](https://github.com/W1lsonCodes/legacy-map-issue-tracker/issues)
+2. Click on [Issues](https://github.com/Milan345/legacybangladesh_gangmap/issues)
 3. Paste in the template and once finished click 'Submit New Issue'
 
 ## How to submit a Suggestion
 1. Please Go To [Suggestion Template](https://github.com/W1lsonCodes/legacy-map-issue-tracker/blob/master/template/suggestion.md)
-2. Click on [Issues](https://github.com/W1lsonCodes/legacy-map-issue-tracker/issues)
+2. Click on [Issues](https://github.com/Milan345/legacybangladesh_gangmap/issues)
 3. Paste in the template and once finished click 'Submit New Issue'
 
 ## License
