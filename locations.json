@@ -2505,7 +2505,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "292b3d",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
@@ -2565,7 +2565,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "292b3d",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -2589,7 +2589,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "292b3d",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -2607,7 +2607,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "292b3d",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -2621,7 +2621,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
+		"fillcolor": "292b3d",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -2635,6 +2635,76 @@
 			{"lat": -74.359, "lng": -16.751},
 			{"lat": -73.862, "lng": -16.751},
 			{"lat": -73.862, "lng": -12.272}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "Mirror Park Auto Repair",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FDBE02",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -64.513, "lng": 17.681},
+			{"lat": -64.490, "lng": 18.769},
+			{"lat": -64.772, "lng": 18.824},
+			{"lat": -64.786, "lng": 17.648}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "The Lost MC Auto Repair",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FDBE02",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -54.385, "lng": 13.412},
+			{"lat": -55.571, "lng": 15.356},
+			{"lat": -55.997, "lng": 14.741},
+			{"lat": -55.177, "lng": 12.049}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "The Hayes Auto Body Shop",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FDBE02",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -59.987, "lng": -55.837},
+			{"lat": -60.238, "lng": -55.519},
+			{"lat": -60.445, "lng": -56.200},
+			{"lat": -60.189, "lng": -56.496}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "SOL:SA Repairs",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FDBE02",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": 76.885, "lng": -15.118},
+			{"lat": 77.186, "lng": -13.877},
+			{"lat": 77.029, "lng": -13.174},
+			{"lat": 76.747, "lng": -14.448}
+		]
+	},
+	{
+		"type": "Automotive",
+		"title": "Mosley Auto Repairs",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FDBE02",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -73.373, "lng": -15.637},
+			{"lat": -73.651, "lng": -14.406},
+			{"lat": -73.906, "lng": -16.559},
+			{"lat": -73.829, "lng": -16.922}
 		]
 	}
 ]
