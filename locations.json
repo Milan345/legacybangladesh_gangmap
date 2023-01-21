@@ -2322,5 +2322,117 @@
 			{"lat": -52.775, "lng": -22.055},
 			{"lat": -52.775, "lng": -36.553}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "Textile City",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -61.903, "lng": -6.646},
+			{"lat": -61.903, "lng": -0.351},
+			{"lat": -65.788, "lng": -0.351},
+			{"lat": -65.788, "lng": -6.646}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Pillbox Hill",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -63.921, "lng": -25.245},
+			{"lat": -63.921, "lng": -22.826},
+			{"lat": -61.903, "lng": -22.826},
+			{"lat": -61.903, "lng": -6.646},
+			{"lat": -65.788, "lng": -6.646},
+			{"lat": -65.788, "lng": -7.324},
+			{"lat": -65.381, "lng": -7.324},
+			{"lat": -65.381, "lng": -10.994},
+			{"lat": -67.321, "lng": -10.994},
+			{"lat": -67.321, "lng": -9.105},
+			{"lat": -68.915, "lng": -9.105},
+			{"lat": -68.915, "lng": -25.245}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Strawberry",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -68.915, "lng": -26.659},
+			{"lat": -68.915, "lng": -0.351},
+			{"lat": -71.551, "lng": -0.351},
+			{"lat": -71.551, "lng": -12.272},
+			{"lat": -73.862, "lng": -12.272},
+			{"lat": -73.862, "lng": -16.751},
+			{"lat": -71.549, "lng": -16.751},
+			{"lat": -71.549, "lng": -26.659}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "East Vinewood",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -53.621, "lng": 5.168},
+			{"lat": -53.621, "lng": 12.642},
+			{"lat": -54.223, "lng": 12.642},
+			{"lat": -54.223, "lng": 25.338},
+			{"lat": -57.669, "lng": 25.338},
+			{"lat": -57.669, "lng": 10.272},
+			{"lat": -61.051, "lng": 10.272},
+			{"lat": -61.051, "lng": 2.537},
+			{"lat": -56.469, "lng": 2.537},
+			{"lat": -56.469, "lng": 5.168}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Murrieta Heights",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -65.079, "lng": 10.917},
+			{"lat": -65.079, "lng": 25.338},
+			{"lat": -67.321, "lng": 25.338},
+			{"lat": -67.321, "lng": 28.121},
+			{"lat": -71.216, "lng": 28.121},
+			{"lat": -71.216, "lng": 11.942},
+			{"lat": -67.321, "lng": 11.942},
+			{"lat": -67.321, "lng": 10.917}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Tongva Hills",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": 4.621, "lng": -82.503},
+			{"lat": 4.621, "lng": -60.391},
+			{"lat": -24.322, "lng": -60.391},
+			{"lat": -24.322, "lng": -72.862},
+			{"lat": -16.939, "lng": -72.862},
+			{"lat": -16.939, "lng": -105.745},
+			{"lat": -4.144, "lng": -105.745},
+			{"lat": -4.144, "lng": -92.058},
+			{"lat": 1.475, "lng": -92.058},
+			{"lat": 1.475, "lng": -82.503}
+		]
 	}
 ]
