@@ -799,6 +799,20 @@
 	},
 	{
 		"type": "Neighborhoods",
+		"title": "Legion Square",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -65.381, "lng": -10.994},
+			{"lat": -65.381, "lng": -7.324},
+			{"lat": -67.321, "lng": -7.324},
+			{"lat": -67.321, "lng": -10.994}
+		]
+	},
+	{
+		"type": "Neighborhoods",
 		"title": "Little Seoul",
 		"notes": "",
 		"order": 0,
@@ -923,6 +937,22 @@
 			{"lat": -57.669, "lng": 25.338},
 			{"lat": -65.079, "lng": 25.338},
 			{"lat": -65.079, "lng": 10.272}
+		]
+	},
+	{
+		"type": "Neighborhoods",
+		"title": "Mission Row",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -65.788, "lng": -7.324},
+			{"lat": -65.788, "lng": -0.351},
+			{"lat": -68.915, "lng": -0.351},
+			{"lat": -68.915, "lng": -9.105},
+			{"lat": -67.321, "lng": -9.105},
+			{"lat": -67.321, "lng": -7.324}
 		]
 	},
 	{
@@ -1421,6 +1451,28 @@
 	},
 	{
 		"type": "Neighborhoods",
+		"title": "Pillbox Hill",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -63.921, "lng": -25.245},
+			{"lat": -63.921, "lng": -22.826},
+			{"lat": -61.903, "lng": -22.826},
+			{"lat": -61.903, "lng": -6.646},
+			{"lat": -65.788, "lng": -6.646},
+			{"lat": -65.788, "lng": -7.324},
+			{"lat": -65.381, "lng": -7.324},
+			{"lat": -65.381, "lng": -10.994},
+			{"lat": -67.321, "lng": -10.994},
+			{"lat": -67.321, "lng": -9.105},
+			{"lat": -68.915, "lng": -9.105},
+			{"lat": -68.915, "lng": -25.245}
+		]
+	},
+	{
+		"type": "Neighborhoods",
 		"title": "Procopio Beach",
 		"notes": "",
 		"order": 0,
@@ -1867,6 +1919,20 @@
 	},
 	{
 		"type": "Neighborhoods",
+		"title": "Textile City",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": -61.903, "lng": -6.646},
+			{"lat": -61.903, "lng": -0.351},
+			{"lat": -65.788, "lng": -0.351},
+			{"lat": -65.788, "lng": -6.646}
+		]
+	},
+	{
+		"type": "Neighborhoods",
 		"title": "Tongva Hills",
 		"notes": "",
 		"order": 0,
@@ -2164,24 +2230,97 @@
 		]
 	},
 	{
-		"type": "Territories",
-		"title": "SOL Hq",
+		"type": "Neighborhoods",
+		"title": "Bolingbroke Penitentiary",
 		"notes": "",
 		"order": 1,
 		"strokecolor": "4E5B31",
-		"fillcolor": "FE0B04",
+		"fillcolor": "00000000",
 		"latlngarray": [
-			{"lat": 78.662, "lng": -14.073},
-            {"lat": 77.261, "lng": -8.402},
-            {"lat": 75.139, "lng": -16.938},
-            {"lat": 74.211, "lng": -22.183},
-            {"lat": 73.921, "lng": -25.259},
-            {"lat": 74.234, "lng": -27.193},
-            {"lat": 75.207, "lng": -27.720},
-            {"lat": 76.078, "lng": -24.820},
-            {"lat": 76.899, "lng": -21.392},
-            {"lat": 77.859, "lng": -18.140}
+			{"lat": 19.045, "lng": 30.489},
+			{"lat": 19.045, "lng": 39.759},
+			{"lat": 9.599, "lng": 39.759},
+			{"lat": 9.599, "lng": 39.366},
+			{"lat": 6.778, "lng": 39.366},
+			{"lat": 6.778, "lng": 37.705},
+			{"lat": 5.784, "lng": 37.705},
+			{"lat": 5.784, "lng": 30.489}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Vespucci Canals",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -63.832, "lng": -48.911},
+			{"lat": -63.832, "lng": -41.994},
+			{"lat": -66.147, "lng": -41.994},
+			{"lat": -66.147, "lng": -38.469},
+			{"lat": -67.401, "lng": -38.469},
+			{"lat": -67.401, "lng": -37.381},
+			{"lat": -69.469, "lng": -37.381},
+			{"lat": -69.469, "lng": -46.797},
+			{"lat": -71.543, "lng": -46.797},
+			{"lat": -71.543, "lng": -49.708},
+			{"lat": -70.169, "lng": -49.708},
+			{"lat": -70.169, "lng": -50.669},
+			{"lat": -69.059, "lng": -50.669},
+			{"lat": -69.059, "lng": -52.101},
+			{"lat": -68.012, "lng": -52.101},
+			{"lat": -68.012, "lng": -53.182},
+			{"lat": -66.732, "lng": -53.182},
+			{"lat": -66.732, "lng": -51.605},
+			{"lat": -65.409, "lng": -51.605},
+			{"lat": -65.409, "lng": -48.911}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Del Perro",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -59.524, "lng": -69.248},
+			{"lat": -59.524, "lng": -52.526},
+			{"lat": -61.552, "lng": -52.526},
+			{"lat": -61.552, "lng": -51.549},
+			{"lat": -62.536, "lng": -51.549},
+			{"lat": -62.536, "lng": -47.535},
+			{"lat": -63.832, "lng": -47.535},
+			{"lat": -63.832, "lng": -48.911},
+			{"lat": -65.409, "lng": -48.911},
+			{"lat": -65.409, "lng": -51.605},
+			{"lat": -66.732, "lng": -51.605},
+			{"lat": -66.732, "lng": -54.455},
+			{"lat": -65.687, "lng": -54.455},
+			{"lat": -65.687, "lng": -57.469},
+			{"lat": -65.085, "lng": -57.469},
+			{"lat": -65.085, "lng": -63.485},
+			{"lat": -64.649, "lng": -63.485},
+			{"lat": -64.649, "lng": -65.401},
+			{"lat": -63.258, "lng": -65.401},
+			{"lat": -63.248, "lng": -69.248}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "West Vinewood",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -44.544, "lng": -36.553},
+			{"lat": -44.544, "lng": -13.503},
+			{"lat": -53.373, "lng": -13.503},
+			{"lat": -53.373, "lng": -22.055},
+			{"lat": -52.775, "lng": -22.055},
+			{"lat": -52.775, "lng": -36.553}
 		]
 	}
-
 ]
