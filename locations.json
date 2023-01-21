@@ -2638,6 +2638,50 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "Grapeseed",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": 66.433, "lng": 31.612},
+			{"lat": 66.433, "lng": 57.589},
+			{"lat": 64.831, "lng": 57.589},
+			{"lat": 64.831, "lng": 59.269},
+			{"lat": 60.018, "lng": 59.269},
+			{"lat": 60.018, "lng": 61.379},
+			{"lat": 54.337, "lng": 61.379},
+			{"lat": 54.337, "lng": 64.239},
+			{"lat": 47.476, "lng": 64.239},
+			{"lat": 47.476, "lng": 55.025},
+			{"lat": 56.536, "lng": 55.025},
+			{"lat": 56.536, "lng": 31.612}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Sandy Shores",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": 47.476, "lng": 55.025},
+			{"lat": 47.476, "lng": 66.426},
+			{"lat": 37.178, "lng": 66.426},
+			{"lat": 37.178, "lng": 63.196},
+			{"lat": 30.873, "lng": 63.196},
+			{"lat": 30.873, "lng": 47.039},
+			{"lat": 34.859, "lng": 47.039},
+			{"lat": 34.859, "lng": 22.749},
+			{"lat": 46.905, "lng": 22.749},
+			{"lat": 46.905, "lng": 47.039},
+			{"lat": 43.085, "lng": 47.039},
+			{"lat": 43.085, "lng": 55.025}
+		]
+	},
+	{
 		"type": "Automotive",
 		"title": "Mirror Park Auto Repair",
 		"notes": "",
@@ -2707,4 +2751,5 @@
 			{"lat": -73.829, "lng": -16.922}
 		]
 	}
+	
 ]
