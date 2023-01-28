@@ -2682,6 +2682,48 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "Stab City",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": 43.567, "lng": -17.457},
+			{"lat": 43.567, "lng": -7.794},
+			{"lat": 38.702, "lng": -7.794},
+			{"lat": 38.702, "lng": -10.315},
+			{"lat": 36.751, "lng": -10.315},
+			{"lat": 36.751, "lng": -14.371},
+			{"lat": 38.699, "lng": -14.371},
+			{"lat": 38.699, "lng": -17.457}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Rancho",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -71.551, "lng": -4.542},
+			{"lat": -71.551, "lng": -0.351},
+			{"lat": -72.458, "lng": -0.351},
+			{"lat": -72.458, "lng": 3.019},
+			{"lat": -76.274, "lng": 3.019},
+			{"lat": -76.274, "lng": -0.351},
+			{"lat": -77.248, "lng": -0.351},
+			{"lat": -77.248, "lng": -11.339},
+			{"lat": -76.293, "lng": -11.339},
+			{"lat": -76.293, "lng": -8.449},
+			{"lat": -74.379, "lng": -8.449},
+			{"lat": -74.379, "lng": -7.091},
+			{"lat": -73.172, "lng": -7.091},
+			{"lat": -73.172, "lng": -4.542}
+		]
+	},
+	{
 		"type": "Automotive",
 		"title": "Mirror Park Auto Repair",
 		"notes": "",
