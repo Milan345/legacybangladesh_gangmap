@@ -2253,7 +2253,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "D2691E",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -2313,7 +2313,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "f1e71a",
+		"fillcolor": "F62E36",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -2329,7 +2329,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "292b3d",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -2365,7 +2365,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "292b3d",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -2403,7 +2403,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "292b3d",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -2455,7 +2455,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "831f18",
+		"fillcolor": "F62E36",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
@@ -2505,7 +2505,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "a020f0",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
@@ -2565,7 +2565,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "292b3d",
+		"fillcolor": "F62E36",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -2607,7 +2607,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "831f18",
+		"fillcolor": "F62E36",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -2687,7 +2687,7 @@
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
-		"fillcolor": "292b3d",
+		"fillcolor": "FF7F50",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
