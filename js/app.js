@@ -149,12 +149,6 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
-		{
-			name: 'Test',
-			icon: '',
-			type: 'General',
-			enabled: false,
-		},
 		/*
 		{
 			name: 'Deprecated',
