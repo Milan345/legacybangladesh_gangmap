@@ -2724,6 +2724,62 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "Vinewood Hills",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -24.322, "lng": -57.704},
+			{"lat": -24.322, "lng": -52.748},
+			{"lat": -9.799, "lng": -52.748},
+			{"lat": -9.799, "lng": -41.982},
+			{"lat": -13.812, "lng": -41.982},
+			{"lat": -13.812, "lng": 24.177},
+			{"lat": -23.505, "lng": 24.177},
+			{"lat": -23.505, "lng": 35.382},
+			{"lat": -36.399, "lng": 35.382},
+			{"lat": -36.399, "lng": 29.802},
+			{"lat": -41.906, "lng": 29.802},
+			{"lat": -41.906, "lng": 24.205},
+			{"lat": -44.538, "lng": 24.205},
+			{"lat": -44.538, "lng": 20.292},
+			{"lat": -45.424, "lng": 20.292},
+			{"lat": -45.424, "lng": 19.299},
+			{"lat": -45.739, "lng": 19.299},
+			{"lat": -45.739, "lng": 18.585},
+			{"lat": -46.818, "lng": 18.585},
+			{"lat": -46.818, "lng": 17.277},
+			{"lat": -47.693, "lng": 17.277},
+			{"lat": -47.693, "lng": 15.535},
+			{"lat": -48.099, "lng": 15.535},
+			{"lat": -48.099, "lng": 14.542},
+			{"lat": -49.521, "lng": 14.542},
+			{"lat": -49.521, "lng": 12.642},
+			{"lat": -53.621, "lng": 12.642},
+			{"lat": -53.621, "lng": 5.168},
+			{"lat": -44.544, "lng": 5.168},
+			{"lat": -44.544, "lng": -72.862},
+			{"lat": -40.431, "lng": -72.862},
+			{"lat": -40.431, "lng": -57.704}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Terminal",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -80.331, "lng": 5.081},
+			{"lat": -80.331, "lng": 24.856},
+			{"lat": -83.149, "lng": 24.856},
+			{"lat": -83.149, "lng": 5.081}
+		]
+	},
+	{
 		"type": "Automotive",
 		"title": "Mirror Park Auto Repair",
 		"notes": "",
@@ -2792,5 +2848,75 @@
 			{"lat": -73.906, "lng": -16.559},
 			{"lat": -73.829, "lng": -16.922}
 		]
+	},
+	{
+		"type": "Legal",
+		"title": "The Courthouse",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -58.778, "lng": -9.293},
+			{"lat": -59.214, "lng": -7.029},
+			{"lat": -59.326, "lng": -6.546},
+			{"lat": -59.421, "lng": -6.315},
+			{"lat": -59.549, "lng": -6.216},
+			{"lat": -59.849, "lng": -6.183},
+			{"lat": -60.053, "lng": -6.282},
+			{"lat": -60.434, "lng": -6.557},
+			{"lat": -60.456, "lng": -10.523}
+		]
+	},
+	{
+		"type": "Legal",
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+	{
+		"type": "Legal",
+		"title": "Mission Row PD",
+		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+	},
+	{
+		"type": "Legal",
+		"title": "Davis PD",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.817, "lng": -4.484},
+			{"lat": -73.072, "lng": -5.121},
+			{"lat": -73.313, "lng": -4.099},
+			{"lat": -73.049, "lng": -3.275}
+		]
 	}
+
 ]
