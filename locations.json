@@ -2810,6 +2810,30 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "Elysian Island",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "4E5B31",
+		"fillcolor": "292b3d",
+		"latlngarray": [
+			{"lat": -76.962, "lng": -28.355},
+			{"lat": -76.962, "lng": -22.957},
+			{"lat": -78.425, "lng": -22.957},
+			{"lat": -78.425, "lng": -0.351},
+			{"lat": -80.331, "lng": -0.351},
+			{"lat": -80.331, "lng": 5.081},
+			{"lat": -83.151, "lng": 5.081},
+			{"lat": -83.151, "lng": -12.716},
+			{"lat": -80.639, "lng": -12.716},
+			{"lat": -80.639, "lng": -28.359},
+			{"lat": -81.408, "lng": -28.359},
+			{"lat": -81.408, "lng": -31.634},
+			{"lat": -80.474, "lng": -31.634},
+			{"lat": -80.474, "lng": -28.355}
+		]
+	},
+	{
 		"type": "Automotive",
 		"title": "Mirror Park Auto Repair",
 		"notes": "",
