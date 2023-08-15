@@ -2249,7 +2249,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Vespucci Canals",
+		"title": "1.Vespucci Canals",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2279,7 +2279,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Del Perro",
+		"title": "2.Del Perro",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2309,7 +2309,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "West Vinewood",
+		"title": "3.West Vinewood",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2325,7 +2325,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Textile City",
+		"title": "4.Textile City",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2339,7 +2339,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Pillbox Hill",
+		"title": "5.Pillbox Hill",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2361,7 +2361,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Strawberry",
+		"title": "6.Strawberry",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2379,7 +2379,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "East Vinewood",
+		"title": "7.East Vinewood",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2399,7 +2399,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Murrieta Heights",
+		"title": "8.Murrieta Heights",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2417,7 +2417,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Tongva Hills",
+		"title": "9.Tongva Hills",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2437,7 +2437,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Mirror Park",
+		"title": "10.Mirror Park",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2451,7 +2451,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Paleto Bay",
+		"title": "11.Paleto Bay",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2501,7 +2501,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Vespucci Beach",
+		"title": "12.Vespucci Beach",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2561,7 +2561,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "El Burro Heights",
+		"title": "13.El Burro Heights",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2585,7 +2585,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Cypress Flats",
+		"title": "14.Cypress Flats",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2603,7 +2603,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Downtown Vinewood",
+		"title": "15.Downtown Vinewood",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2617,7 +2617,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Davis",
+		"title": "16.Davis",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2639,7 +2639,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Grapeseed",
+		"title": "17.Grapeseed",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2661,7 +2661,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Sandy Shores",
+		"title": "18.Sandy Shores",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2688,7 +2688,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Stab City",
+		"title": "19.Stab City",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2706,7 +2706,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Rancho",
+		"title": "20.Rancho",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2730,7 +2730,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Vinewood Hills",
+		"title": "21.Vinewood Hills",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2772,7 +2772,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Terminal",
+		"title": "22.Terminal",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2786,7 +2786,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Paleto Forest",
+		"title": "23.Paleto Forest",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2816,7 +2816,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Chiliad Mountain State Wilderness",
+		"title": "24.Chiliad Mountain State Wilderness",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2842,7 +2842,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Elysian Island",
+		"title": "25.Elysian Island",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
@@ -2866,7 +2866,7 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Harmony",
+		"title": "26.Harmony",
 		"notes": "",
 		"order": 0,
 		"strokecolor": "4E5B31",
